@@ -1,0 +1,44 @@
+nav a {
+  display: inline-flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 15px;
+  margin: auto;
+  color: black;
+}
+.navigation {
+  display: inline-flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+}
+.nav-bar {
+  display: inline-flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 1243px;
+  height: 60px;
+}
+.flex-nav {
+  display: inline-block;
+}
+.logo-name{
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin: auto;
+  padding-left: 10px;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+}
