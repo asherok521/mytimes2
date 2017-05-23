@@ -47,6 +47,7 @@ nav a {
   justify-content: space-between;
   position: relative;
   padding-top: 30px;
+  padding-bottom: 100px;
   left: 60px;
   margin-right: 110px;
 }
@@ -160,7 +161,7 @@ footer {
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 500px;
+  height: 300px;
   background-color: MediumAquaMarine;
   margin: auto;
   font-family: Verdana;
@@ -171,9 +172,6 @@ footer div:first-child {
   flex-direction: column;
   align-items: center;
   margin: auto;
-}
-.footer p {
-
 }
 .footer p a {
   display: inline-flex;
